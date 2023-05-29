@@ -7,3 +7,4 @@ The data contains information on over 40,000 reservations made from 2017 to 2018
 #### Read more in (Project_Report) file
 https://github.com/Muhannad0101/EDA-and-Predicting-of-Booking-Status/blob/main/Project_Report.pdf
 #### Check out my code in (eda-and-classification-models-for-cancelled-status.ipynb) file
+https://github.com/Muhannad0101/EDA-and-Predicting-of-Booking-Status/blob/main/eda-and-classification-models-for-cancelled-status.ipynb
