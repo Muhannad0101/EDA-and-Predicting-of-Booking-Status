@@ -4,5 +4,6 @@ In this project, I well analyze reservation data for Hotels, a chain of luxury h
 
 The data contains information on over 40,000 reservations made from 2017 to 2018 years. For each reservation, we have information such as arrival/departure dates, reservation status ,avg price per room , room type reserved, etc. We find that certain dates, hotels, and customer segments have higher tendencies to cancel reservations. These insights can help Hotels craft targeted policies to prevent cancellations and improve customer experiences.
 
-## Read more in (Project_Report) file
-## Check out my code in (eda-and-classification-models-for-cancelled-status.ipynb) file
+#### Read more in (Project_Report) file
+https://github.com/Muhannad0101/EDA-and-Predicting-of-Booking-Status/blob/main/Project_Report.pdf
+#### Check out my code in (eda-and-classification-models-for-cancelled-status.ipynb) file
